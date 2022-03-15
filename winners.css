@@ -1,0 +1,605 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+header{
+	background:;
+	height:100px;
+	width:100%;
+}
+
+
+#Top{
+	
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+
+	
+}
+ ul{
+	display:flex;
+	justify-content:space-around;
+}
+
+	
+
+li{
+	list-style-type: none;
+	padding-right: 75px;
+}
+
+#last-li{
+	border:1px solid red;
+	width:1px;
+	margin-right:10px;
+	background-color: red;
+	color:white;
+	height: 20px;
+
+
+}
+
+#second-section{
+	background-image:url("./pics/unsplash.png");
+
+
+opacity: 2;	
+width: 100%;
+height: 718px;
+margin-bottom:200px;
+
+
+}
+
+#first-pargraph{
+
+padding-top:300px;
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 700;
+font-size: 90px;
+line-height: 107px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+#second-pargraph{
+
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 80px;
+
+text-align: center;
+color: #FFFFFF;
+margin-left: 50px;
+
+
+
+}
+
+#Third-paragraph{
+	
+
+
+font-family: 'SF Pro Display';
+font-style: italic;
+font-weight: 500;
+font-size: 48px;
+line-height: 57px;
+text-align: center;
+
+color: #000000;
+margin-top:-150px;
+margin-left:20px;
+
+}
+
+#fourth-paragraph{
+
+
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+
+text-align: center;
+
+color: #000000;
+margin-top:2px;
+margin-left:10px;
+
+}
+
+
+
+#Paragraph5{
+text-align:center;
+
+font-family: 'SF Pro Display';
+font-style:normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 40px;
+color: #EC1A11;
+}
+
+#container{
+	display:flex;
+	justify-content:space-around;
+	margin-top:70px;
+}
+
+#div1{
+width: 273px;
+height: 274px;
+
+
+background: rgba(236, 26, 17, 0.05);
+border: 1px solid #EC1A11;
+
+border-radius: 20px;
+}
+
+#div2{
+width: 273px;
+height: 274px;
+
+
+background: rgba(236, 26, 17, 0.05);
+border: 1px solid #EC1A11;
+
+border-radius: 20px;	
+}
+
+#div3{
+width: 273px;
+height: 274px;
+
+
+background: rgba(236, 26, 17, 0.05);
+border: 1px solid #EC1A11;
+
+border-radius: 20px;	
+}
+
+#div4{
+width: 273px;
+height: 274px;
+
+
+background: rgba(236, 26, 17, 0.05);
+border: 1px solid #EC1A11;
+
+border-radius: 20px;	
+}
+
+.container-paragraph{
+width: 244px;
+height: 162px;
+text-align:center;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 40px;
+
+
+
+color: #383838;
+
+}
+
+.container-paragraph1{
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 40px;
+text-align:center;
+
+
+
+color: #383838;	
+}
+
+.container-paragraph2{
+width: 192px;
+height: 109px;
+left: 823px;
+top: 1503px;
+text-align:center;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 40px;
+
+
+
+color: #383838;
+	
+}
+
+.container-paragraph3{
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 40px;
+text-align:center;
+
+
+
+color: #383838;	
+}
+
+#first-time-worshiper{
+	display:flex;
+	margin-top: 100px;
+	justify-content:space-around;
+}
+
+#inner-first-time-worshiper{
+background-color:;
+width:550px;
+height:550px;
+}
+
+
+#inner-first-time-worshiper1{
+background-image:url("./pics/unsplash1.png");
+background-repeat:no-repeat;
+width:550px;
+height:550px;
+border-radius: 20px;	
+}
+
+#inner-first-time-worshiperp1{
+width: 492px;
+height: 31px;
+padding-top:20px;
+text-align:center;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 40px;
+
+
+
+color: #000000;
+}
+
+#inner-first-time-worshiperp2{
+width: 621px;
+height: 283px;
+padding-top:20px;
+
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 60px;
+
+
+
+color: #383838;
+	
+}
+
+#submit{
+	width: 300px;
+height: 150px;
+background: #EC1A11;
+border-radius: 10px;
+color:white;
+}
+
+#give-your-life-to-Christ{
+	display:flex;
+	margin-top: 100px;
+	justify-content:space-around;
+}
+
+#give-your-life-to-Christ1{
+background-image:url("./pics/unsplash2.png");
+background-repeat:no-repeat;
+width:550px;
+height:550px;
+border-radius: 20px;	
+}
+
+#give-your-life-to-Christ2{
+width: 516px;
+height: 53px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 40px;
+
+
+
+color: #000000;
+
+}
+#inner-give-your-life-to-Christ3{
+width: 500px;
+height: 283px;
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+
+
+
+color: #383838;
+
+
+}
+
+#share-your-testimony{
+	display:flex;
+	margin-top: 100px;
+	justify-content:space-around;
+}
+
+#inner-share-your-testimony{
+background-color:;
+width:550px;
+height:550px;
+}
+
+
+#inner-share-your-testimony3{
+background-image:url("./pics/unsplash3.png");
+background-repeat:no-repeat;
+width:550px;
+height:550px;
+border-radius: 20px;	
+}
+
+#inner-share-your-testimony1{
+width: 492px;
+height: 31px;
+padding-top:20px;
+text-align:center;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 40px;
+
+
+
+color: #000000;
+}
+
+#inner-share-your-testimony2{
+width: 621px;
+height: 283px;
+padding-top:20px;
+
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 60px;
+
+
+
+color: #383838;
+	
+}
+
+#Send-your-prayer-request{
+	display:flex;
+	margin-top: 100px;
+	justify-content:space-around;
+}
+
+#Send-your-prayer-request1{
+background-image:url("./pics/unsplash4.png");
+background-repeat:no-repeat;
+width:550px;
+height:550px;
+border-radius: 20px;	
+}
+
+#inner-Send-your-prayer-request{
+width: 516px;
+height: 53px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 40px;
+
+
+
+color: #000000;
+
+}
+#inner-Send-your-prayer-request3{
+width: 500px;
+height: 283px;
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+
+
+
+color: #383838;
+
+
+}
+
+
+#meet-our-Pastor{
+	display:flex;
+	margin-top: 100px;
+	justify-content:space-around;
+	background: #FEF4F3;
+}
+
+#meet-our-Pastor1{
+background-image:url("./pics/unsplash5.png");
+background-repeat:no-repeat;
+width:550px;
+height:550px;
+border-radius: 20px;	
+}
+
+#inner-Send-your-prayer-request{
+width: 516px;
+height: 53px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 40px;
+
+
+
+color: #000000;
+
+}
+#inner-Send-your-prayer-request3{
+width: 500px;
+height: 283px;
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+
+
+
+color: #383838;
+
+
+}
+
+#first-h2{
+width: 286px;
+height: 40px;
+margin-top:80px;
+margin-left:40px;
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 40px;
+
+
+
+color: #EC1A11;
+
+}
+
+#first-h2p{
+	font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+
+
+
+color: #383838;
+
+}
+
+
+
+#watch-the-resent-message1{
+	position: relative;
+background-image:url("./pics/unsplash6.png");
+background-repeat:no-repeat;
+width:550px;
+height:550px;
+border-radius: 20px;	
+}
+
+.vector-conainer{
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+
+	background-color: white;
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#video-gallery{
+	display:flex;
+	justify-content:space-around;
+	margin-top:100px;
+	background: #FEF4F3;
+}
+
+#video-gallery1{
+position: relative;
+width: 350px;
+height: 350px;
+background-image:url("./pics/unsplash6.png");
+border-radius: 10px;
+}
+
+#video-gallery2{
+position: relative;
+width: 350px;
+height: 350px;
+background-image:url("./pics/unsplash7.png");	
+border-radius: 10px;
+}
+
+#video-gallery3{
+position: relative;
+width: 350px;
+height: 350px;
+background-image:url("./pics/unsplash8.png");	
+border-radius: 10px;
+}
+
+.fin{
+	margin-top:380px;
+	font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 30px;
+
+
+color: #383838;
+}
