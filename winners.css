@@ -40,6 +40,7 @@ li{
 	height: 20px;
 
 
+
 }
 
 #second-section{
@@ -566,6 +567,8 @@ border-radius: 20px;
 	justify-content:space-around;
 	margin-top:100px;
 	background: #FEF4F3;
+	height:600px;
+
 }
 
 #video-gallery1{
@@ -603,3 +606,87 @@ line-height: 30px;
 
 color: #383838;
 }
+
+#h2{
+margin-left:40px;
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 40px;
+
+
+color: #000000;
+}
+
+#h2p{
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+
+
+color: #383838;
+}
+
+#join-us{
+background-image:url("./pics/unsplash9.png");
+background-repeat:no-repeat;
+width:550px;
+height:550px;
+border-radius: 20px;	
+}
+
+#view{
+width: 300px;
+height: 150px;
+background:white ;
+border-radius: 10px;
+color:#EC1A11;	
+border:1px solid red;
+}
+
+#footer{
+	display:flex;
+	height:440px;
+	background-color:#c4c4c4;
+	margin-top:70px;
+	justify-content:space-around;
+}
+
+#footer-div1{
+width: 400px;
+height:420px;
+background-color:;
+text-align:center;
+}
+
+#footer-div2{
+width: 400px;
+height: 350px;
+background-color:;
+text-align:center;	
+}
+
+#footer-div3{
+width: 400px;
+height: 420px;;
+background-color:;
+text-align:center;
+
+}
+
+.footer-class{
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 35px;
+
+
+
+color: #000000;
+}
+
