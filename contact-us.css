@@ -1,0 +1,227 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+header{
+	background:;
+	height:100px;
+	width:100%;
+}
+
+
+#Top{
+	
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+
+	
+}
+ ul{
+	display:flex;
+	justify-content:space-around;
+}
+
+	
+
+li{
+	list-style-type: none;
+	padding-right: 75px;
+}
+
+#last-li{
+	border:1px solid red;
+	width:1px;
+	margin-right:10px;
+	background-color: red;
+	color:white;
+	height: 20px;
+
+
+
+}
+
+#second-section{
+	background-image:url("./pics/unsplash12.png");
+
+
+opacity: 2;	
+width: 100%;
+height: 718px;
+margin-bottom:200px;
+
+
+}
+
+#first-pargraph{
+
+padding-top:230px;
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 700;
+font-size: 90px;
+line-height: 107px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+#second-pargraph{
+
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 80px;
+
+text-align: center;
+color: #FFFFFF;
+margin-left: 50px;
+
+
+
+}
+
+#Love{
+	text-align:center;
+	font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 40px;
+margin-top: -140px;
+
+
+color: #EC1A11;
+
+}
+
+#Lovep{
+	font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+
+
+text-align: center;
+
+color: #383838;
+}
+
+#form{
+	background-color:white;
+	width:50%;
+	height:900px;
+	margin-left:350px;
+	margin-top:100px;
+}
+
+#email{
+	width:500px;
+	height:60px;
+	margin-left:70px;
+	border-radius:10px;
+	border:1px solid #c4c4c4;
+}
+
+#address{
+	width:500px;
+	height:60px;
+	margin-left:70px;
+	border-radius:10px;
+	border:1px solid #c4c4c4;
+}
+
+#phone-number{
+	width:500px;
+	height:60px;
+	margin-left:70px;
+	border-radius:10px;
+	border:1px solid #c4c4c4;
+}
+
+#comments{
+  width:500px;
+	height:250px;
+	margin-left:70px;
+	border-radius:10px;
+	border:1px solid #c4c4c4;	
+}
+
+#sub{
+	width:200px;
+	height:50px;
+	background-color:#EC1A11;
+	color:#FFFFFF;
+	margin-left:210px;
+}
+
+#emailSpan{
+margin-left:70px;
+}
+
+#addressSpan{
+margin-left:70px;
+}
+
+
+#numberSpan{
+margin-left:70px;
+}
+
+
+#commentsSpan{
+margin-left:70px;
+}
+
+
+
+#footer{
+	display:flex;
+	height:440px;
+	background-color:#c4c4c4;
+	margin-top:70px;
+	justify-content:space-around;
+}
+
+
+
+#footer-div1{
+width: 400px;
+height:420px;
+background-color:;
+text-align:center;
+}
+
+#footer-div2{
+width: 400px;
+height: 350px;
+background-color:;
+text-align:center;	
+}
+
+#footer-div3{
+width: 400px;
+height: 420px;;
+background-color:;
+text-align:center;
+
+}
+
+.footer-class{
+
+font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 35px;
+
+
+
+color: #000000;
+}
+

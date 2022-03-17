@@ -44,7 +44,7 @@ li{
 }
 
 #second-section{
-	background-image:url("./pics/ChurchUnits.png");
+	background-image:url("./pics/unsplash13.png");
 
 
 opacity: 2;	
@@ -55,10 +55,9 @@ margin-bottom:200px;
 
 }
 
-
 #first-pargraph{
 
-padding-top:200px;
+padding-top:250px;
 font-family: 'SF Pro Display';
 font-style: normal;
 font-weight: 700;
@@ -88,59 +87,28 @@ margin-left: 50px;
 
 }
 
-#first-time-worshiper{
-	display:flex;
-	margin-top: 100px;
-	justify-content:space-around;
-}
-
-#inner-first-time-worshiper{
-background-color:;
-width:550px;
-height:550px;
-}
-
-
-#inner-first-time-worshiper1{
-background-image:url("./pics/unsplash11.png");
-background-repeat:no-repeat;
-width:550px;
-height:550px;
-border-radius: 20px;	
-}
-
-#inner-first-time-worshiperp1{
-width: 492px;
-height: 31px;
-padding-top:10px;
-text-align:center;
-
-font-family: 'SF Pro Display';
+#cheer{
 font-style: normal;
 font-weight: 600;
 font-size: 48px;
 line-height: 40px;
-
+text-align:center;
+margin-top: -120px;
 
 
 color: #EC1A11;
+
 }
 
-#inner-first-time-worshiperp2{
-
-padding-top:20px;
-
-
-font-family: 'SF Pro Display';
+#cheer2{
 font-style: normal;
 font-weight: 400;
-font-size: 23px;
+font-size: 24px;
 line-height: 40px;
 
+text-align: center;
 
-
-color: #383838;
-	
+color: #383838;	
 }
 
 #give-your-life-to-Christ{
@@ -150,7 +118,7 @@ color: #383838;
 }
 
 #give-your-life-to-Christ1{
-background-image:url("./pics/unsplash2.png");
+background-image:url("./pics/unsplash14.png");
 background-repeat:no-repeat;
 width:550px;
 height:550px;
@@ -188,28 +156,16 @@ color: #383838;
 
 }
 
-#join{
-font-style: normal;
-font-weight: 600;
-font-size: 48px;
-line-height: 40px;
-text-align:center;
-margin-top:80px;
-
-
-color: #EC1A11;	
+#last-section{
+background-image:url("./pics/unsplash15.png");
+background-repeat:no-repeat;
+width: 1128px;
+height: 635px;
+border-radius: 20px;	
+margin-top: 100px;
+margin-left: 100px;
 }
 
-#empty{
-	width: 1060px;
-height: 1388px;
-left: 222px;
-top: 2919px;
-
-background: rgba(236, 26, 17, 0.1);
-border-radius: 20px;
-margin-left:150px;
-}
 
 #footer{
 	display:flex;
