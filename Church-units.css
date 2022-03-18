@@ -17,6 +17,8 @@ header{
 	justify-content:space-between;
 	align-items:center;
 
+
+
 	
 }
  ul{
@@ -210,6 +212,11 @@ background: rgba(236, 26, 17, 0.1);
 border-radius: 20px;
 margin-left:150px;
 }
+
+a{
+	text-decoration:none;
+}
+
 
 #footer{
 	display:flex;
